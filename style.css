@@ -29,6 +29,15 @@ h3 {
     font-size: 1.5rem;
 }
 
+.header a {
+    color: white;
+    text-decoration: none;
+}
+
+.header a:hover {
+    text-decoration: underline;
+}
+
 /* SEARCHBAR */
 .searchbar {
     display: flex;
