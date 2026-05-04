@@ -2,7 +2,7 @@
 
 A movie search app that lets you build a personal watchlist. Search any title via the OMDb API, browse results with posters, ratings, runtime, and synopsis, and save the ones you want to watch later.
 
-![Movie Watchlist demo](./docs/demo.gif)
+![Movie Watchlist demo](./docs/moviewatchlist.gif)
 
 ## Why I built it
 
